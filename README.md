@@ -68,7 +68,7 @@ Decentralized certificate verification platform with QR-based instant verificati
 **Tech:** Celo, Next.js, React Native  
 💻 [Code](https://github.com/saRvaGnyA/decertify)
 
-➡️ More projects on my **[Portfolio Website](https://YOUR_PORTFOLIO_URL)**
+➡️ More projects on my **[Portfolio Website](https://ananya-portfolio-web.vercel.app/)**
 
 ---
 
