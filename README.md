@@ -1,11 +1,12 @@
 # Hi, I'm Ananya 👋
 
-Software Engineer with experience building **scalable backend systems**, **data-driven products**, and **reliable full-stack applications**.  
-Currently working as a **Software Engineer at Goldman Sachs**.
+Software Engineer at **Goldman Sachs** with experience building **scalable backend systems**, **data-driven products**, and **reliable full-stack applications**.
 
-🔹 Strong fundamentals in **DSA, system design, and distributed systems**  
-🔹 Experience with **production-grade microservices and event-driven architectures**  
-🔹 Passionate about building systems that reduce toil and improve developer productivity  
+I’m interested in **distributed systems, system design, backend engineering, and developer productivity**.
+
+- Strong fundamentals in **DSA, OOP, system design, and distributed systems**
+- Experience with **production-grade microservices** and **event-driven architectures**
+- Passionate about building systems that reduce toil and improve engineering efficiency
 
 ---
 
@@ -13,62 +14,65 @@ Currently working as a **Software Engineer at Goldman Sachs**.
 
 - 💼 Software Engineer @ **Goldman Sachs**
 - 🎓 B.Tech in Computer Engineering from **VJTI, Mumbai** (CGPA: **9.52**)
-- 🏆 **JPMC Code For Good ’22 Winner**
+- 🏆 **JPMC Code For Good 2022** Winner
 - 🌍 **ACM ICPC Asia West Regionalist**
-- 🥇 **15+ Hackathon Awards** across ETHGlobal, Chainlink, Polygon, and more
+- 🥇 Winner / Finalist in **15+ hackathons** including ETHGlobal, ETHMumbai, Chainlink, Polygon, and more
 - 📍 Based in **Bengaluru, India**
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Core Software Engineering
-- Java, Python, C++
-- Data Structures & Algorithms
-- Object-Oriented Design
-- System Design & Distributed Systems
+### Languages
+- Java, Python, C++, SQL, JavaScript
 
-### Backend & Infrastructure
-- Spring Boot, Node.js, Flask
+### Backend & Distributed Systems
+- Spring Boot, Microservices, REST APIs
 - Apache Kafka, RabbitMQ
-- Docker, Kubernetes
-- REST APIs, Event-driven systems
+- Event-driven systems, scalability, fault tolerance
 
-### Frontend & Mobile
-- React.js, Next.js, Redux
-- React Native, Flutter
+### Data & Infrastructure
+- PostgreSQL, MongoDB
+- Docker, Kubernetes
+- AWS CDK, CI/CD, deployment automation
+
+### Frontend
+- React.js, Redux, Next.js
 - HTML, CSS, Tailwind CSS
 
-### Blockchain & Web3
-- Solidity, Ethereum, Polygon
-- Hardhat, Noir
-- Smart Contracts, NFTs
+### Mobile / Other
+- React Native, Flutter
+- Flask, Node.js
+
+### Blockchain / Web3
+- Solidity, Hardhat, Noir
+- Ethereum, Polygon, Smart Contracts
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 FairplayXI
-Decentralized and sybil-resistant protocol for fantasy sports with strong privacy guarantees.  
-**Tech:** Noir, Hardhat, Blockchain, Smart Contracts  
-🔗 [Project](https://devfolio.co/projects/fairplayxi-b88f) | 💻 [Code](https://github.com/Jigsaw-23122002/ETH-Mumbai-2024)
+### 🔹 FairPlayXI
+A decentralized, sybil-resistant protocol for fantasy sports with privacy-preserving workflows and verifiable outcomes.  
+**Tech:** Noir, Hardhat, Smart Contracts, Blockchain  
+[Project](https://devfolio.co/projects/fairplayxi-b88f) | [Code](https://github.com/Jigsaw-23122002/ETH-Mumbai-2024)
 
 ### 🔹 BillEase
-Digital billing and inventory management platform for shop owners.  
+A digital billing and inventory management platform for shop owners.  
 **Tech:** React Native, Node.js, MongoDB  
-💻 [Code](https://github.com/vorachaitya/BillEase)
+[Code](https://github.com/vorachaitya/BillEase)
 
 ### 🔹 AasanAI
-Deep learning–powered yoga posture correction web & mobile app using pose detection.  
-**Tech:** TensorFlow, Movenet, React, Firebase  
-💻 [Code](https://github.com/saRvaGnyA/AasanAI)
+A deep learning–powered yoga posture correction app using pose detection.  
+**Tech:** TensorFlow, MoveNet, React, Firebase  
+[Code](https://github.com/saRvaGnyA/AasanAI)
 
 ### 🔹 deCertify
-Decentralized certificate verification platform with QR-based instant verification.  
+A decentralized certificate verification platform with QR-based instant verification.  
 **Tech:** Celo, Next.js, React Native  
-💻 [Code](https://github.com/saRvaGnyA/decertify)
+[Code](https://github.com/saRvaGnyA/decertify)
 
-➡️ More projects on my **[Portfolio Website](https://ananya-portfolio-web.vercel.app/)**
+➡️ More projects on my [Portfolio Website](https://ananya-portfolio-web.vercel.app/)
 
 ---
 
@@ -77,8 +81,8 @@ Decentralized certificate verification platform with QR-based instant verificati
 - 🥇 Winner — **JPMC Code For Good 2022**
 - 🌍 **ACM ICPC Asia West Regionalist**
 - 🏅 5 Track Prizes — **ETHMumbai 2024**
-- 🏅 Multiple Bounties — **ETHGlobal Scaling Ethereum (2023 & 2024)**
-- 🏆 Winner / Finalist at **15+ national & international hackathons**
+- 🏅 Multiple bounties — **ETHGlobal Scaling Ethereum 2023 & 2024**
+- 🏆 Winner / Finalist at **15+ national and international hackathons**
 
 ---
 
@@ -97,4 +101,4 @@ Decentralized certificate verification platform with QR-based instant verificati
 
 ---
 
-⭐️ *Always open to discussing software engineering roles, system design, and impactful projects.*
+⭐ Open to software engineering roles in backend, distributed systems, platform engineering, and full-stack development.
